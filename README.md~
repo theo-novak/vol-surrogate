@@ -1,4 +1,4 @@
-# Neural surrogate calibration of the Heston stochastic-volatility model
+# vol-surrogate
 
 Neural surrogate calibration of the Heston stochastic-volatility model: a
 feedforward network learns the map from the five Heston parameters to the
